@@ -63,6 +63,36 @@
        id="guide4170"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="690.94486,885.82674"
+       orientation="1,0"
+       id="guide4148"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1080.7086,885.82674"
+       orientation="1,0"
+       id="guide4150"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="885.82674,513.77951"
+       orientation="0,1"
+       id="guide4152"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="531.49604,513.77951"
+       orientation="1,0"
+       id="guide4154"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1240.1574,513.77951"
+       orientation="1,0"
+       id="guide4156"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -96,7 +126,7 @@
     <path
        id="path4154"
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#4c462c;stroke-width:35.43306732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 676.22983,166.92924 412.00577,-0.27955 m -587.64807,443.84167 390.15474,-959.4765 380.55533,949.31433"
+       d="m 690.90601,166.45667 389.76839,0.0749 m -549.16471,371.80507 355.08535,-845.2034 353.53346,846.25748"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
   </g>
