@@ -102,7 +102,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Appropriate Computing Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mike Dillon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2015-04-01</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Appropriate Computing, LLC</dc:title>
+          </cc:Agent>
+        </dc:publisher>
       </cc:Work>
     </rdf:RDF>
   </metadata>
