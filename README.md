@@ -4,7 +4,7 @@ Appropriate Computing's logo and other brand assets.
 
 ## Colophon
 
-The Appropriate Computing logo was creating using [InkScape](http://www.inkscape.org). It uses the [Cabin Condensed](https://www.google.com/fonts/specimen/Cabin+Condensed) typeface by [Pablo Impallari](http://www.impallari.com/). The sun was created using [Astrifex](https://astrifex.github.io/).
+The Appropriate Computing logo was creating using [Inkscape](http://www.inkscape.org). It uses the [Cabin Condensed](https://www.google.com/fonts/specimen/Cabin+Condensed) typeface by [Pablo Impallari](http://www.impallari.com/). The sun was created using [Astrifex](https://astrifex.github.io/).
 
 ## License
 
