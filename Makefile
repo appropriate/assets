@@ -2,7 +2,7 @@
 
 .PHONY: all
 
-all: appropriate-logo.png favicon.ico favicon-152.png appropriate-logo-50x50.png appropriate-logo-100x60.png
+all: appropriate-logo.png favicon.ico favicon-152.png appropriate-logo-50x50.png appropriate-logo-full-100x40.png
 
 appropriate-logo.png: appropriate-logo.svg
 	convert $^ -resize 1600x1600 -background transparent $@
@@ -10,8 +10,8 @@ appropriate-logo.png: appropriate-logo.svg
 appropriate-logo-50x50.png: appropriate-logo.svg
 	convert $^ -resize 50x50 -background transparent $@
 
-appropriate-logo-100x60.png: appropriate-logo-full.svg
-	convert $^ -resize 100x60 -background transparent $@
+appropriate-logo-full-100x40.png: appropriate-logo-full.svg
+	convert $^ -resize 100x40 -background transparent $@
 
 # Multi-icon .ico h/t: http://stackoverflow.com/a/15104985/1106808
 favicon.ico: appropriate-logo.svg
