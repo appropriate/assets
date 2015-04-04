@@ -2,13 +2,16 @@
 
 .PHONY: all
 
-all: appropriate-logo.png appropriate-logo-white.png favicon.ico favicon-152.png appropriate-logo-50x50.png appropriate-logo-full-100x40.png
+all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-152.png appropriate-logo-50x50.png appropriate-logo-full-100x40.png
 
 appropriate-logo.png: appropriate-logo.svg
 	convert -background none $^ -resize 1600x1600 $@
 
 appropriate-logo-white.png: appropriate-logo.svg
 	convert -background white $^ -resize 1600x1600 $@
+
+appropriate-logo-olive.png: appropriate-logo.svg
+	convert -background '#808000' $^ -resize 1600x1600 $@
 
 appropriate-logo-50x50.png: appropriate-logo.svg
 	convert -background none $^ -resize 50x50 $@
