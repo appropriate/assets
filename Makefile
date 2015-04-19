@@ -2,7 +2,7 @@
 
 .PHONY: all
 
-all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-152.png appropriate-logo-50x50.png appropriate-logo-128x128.png appropriate-logo-full-100x40.png appropriate-logo-400x400.png
+all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-144.png favicon-152.png appropriate-logo-50x50.png appropriate-logo-128x128.png appropriate-logo-full-100x40.png appropriate-logo-400x400.png
 
 appropriate-logo.png: appropriate-logo.svg
 	convert -background none $^ -resize 1600x1600 $@
@@ -33,6 +33,9 @@ favicon.ico: appropriate-logo.svg
 		\( -clone 0 -resize 48x48 \) \
 		\( -clone 0 -resize 64x64 \) \
 		-delete 0 -alpha off -colors 256 $@
+
+favicon-144.png: appropriate-logo.svg
+	convert $^ -resize 144x144 $@
 
 favicon-152.png: appropriate-logo.svg
 	convert $^ -resize 152x152 $@
