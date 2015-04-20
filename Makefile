@@ -2,7 +2,7 @@
 
 .PHONY: all
 
-all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-144.png favicon-152.png appropriate-logo-50x50.png appropriate-logo-128x128.png appropriate-logo-full-100x40.png appropriate-logo-400x400.png
+all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-144.png favicon-152.png appropriate-logo-50x50.png appropriate-logo-128x128.png appropriate-logo-full-100x40.png appropriate-logo-400x400.png appropriate-logo-full-150x60.png appropriate-logo-full-625x250.png
 
 appropriate-logo.png: appropriate-logo.svg
 	convert -background none $^ -resize 1600x1600 $@
@@ -24,6 +24,12 @@ appropriate-logo-128x128.png: appropriate-logo.svg
 
 appropriate-logo-full-100x40.png: appropriate-logo-full.svg
 	convert -background none $^ -resize 100x40 $@
+
+appropriate-logo-full-150x60.png: appropriate-logo-full.svg
+	convert -background none $^ -resize 150x60 $@
+
+appropriate-logo-full-625x250.png: appropriate-logo-full.svg
+	convert -background none $^ -resize 625x250 $@
 
 # Multi-icon .ico h/t: http://stackoverflow.com/a/15104985/1106808
 favicon.ico: appropriate-logo.svg
