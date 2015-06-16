@@ -171,18 +171,14 @@
       <g
          id="g4189"
          transform="translate(0,1.2032507e-6)">
-        <text
-           xml:space="preserve"
+        <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="24.296293"
-           y="35.478142"
-           id="text4159"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4161"
-             x="24.296293"
-             y="35.478142"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"></tspan></text>
+           id="text4159">
+          <path
+             d="m 26.916928,35.427745 c 0,0.02677 -0.02362,0.0504 -0.0504,0.0504 l -2.318254,0 c -0.02677,0 -0.0504,-0.02362 -0.0504,-0.0504 l 0,-1.209524 c 0.03307,0.0378 0.0693,0.07245 0.108668,0.103944 0.225211,0.173239 0.451996,0.349628 0.670907,0.532316 0.118118,0.09922 0.264584,0.220486 0.428373,0.220486 l 0.0016,0 0.0016,0 c 0.16379,0 0.310256,-0.121267 0.428373,-0.220486 0.218912,-0.182688 0.445697,-0.359077 0.670908,-0.532316 0.03937,-0.0315 0.07559,-0.06615 0.108668,-0.103944 l 0,1.209524 z m 0,-1.655221 c 0,0.133867 -0.129142,0.308681 -0.23151,0.389001 -0.211037,0.165364 -0.422074,0.332304 -0.631535,0.499243 -0.08347,0.06772 -0.234661,0.212612 -0.344904,0.212612 l -0.0016,0 -0.0016,0 c -0.110243,0 -0.261433,-0.144891 -0.344903,-0.212612 -0.209462,-0.166939 -0.420498,-0.333879 -0.631535,-0.499243 -0.141741,-0.111818 -0.23151,-0.267733 -0.23151,-0.447272 0,-0.02677 0.02362,-0.0504 0.0504,-0.0504 l 2.318254,0 c 0.05985,0 0.0504,0.0693 0.0504,0.108668 z m 0.201587,-0.05827 c 0,-0.138591 -0.113392,-0.251984 -0.251984,-0.251984 l -2.318254,0 c -0.138591,0 -0.251984,0.113393 -0.251984,0.251984 l 0,1.713492 c 0,0.138591 0.113393,0.251984 0.251984,0.251984 l 2.318254,0 c 0.138592,0 0.251984,-0.113393 0.251984,-0.251984 l 0,-1.713492 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+             id="path4781" />
+        </g>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -198,18 +194,14 @@
       <g
          id="g4195"
          transform="translate(0,-1.2466296)">
-        <text
-           xml:space="preserve"
+        <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="24.567175"
-           y="39.916996"
-           id="text4167"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4169"
-             x="24.567175"
-             y="39.916996"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"></tspan></text>
+           id="text4167">
+          <path
+             d="m 27.118514,38.140508 c -0.09134,0.03937 -0.190563,0.06772 -0.292931,0.07875 0.105518,-0.063 0.185838,-0.162215 0.223636,-0.280332 -0.09764,0.05827 -0.207887,0.100793 -0.322855,0.122842 -0.09292,-0.09922 -0.225211,-0.16064 -0.371677,-0.16064 -0.281907,0 -0.508693,0.228361 -0.508693,0.508693 0,0.03937 0.0047,0.07874 0.0126,0.116543 -0.422074,-0.02205 -0.798475,-0.223636 -1.048884,-0.532317 -0.0441,0.07559 -0.0693,0.162215 -0.0693,0.256709 0,0.176389 0.08977,0.332304 0.226786,0.423648 -0.08347,-0.0031 -0.162215,-0.02677 -0.229936,-0.06457 0,0.0016 0,0.0047 0,0.0063 0,0.247259 0.174814,0.451996 0.4079,0.499243 -0.04252,0.01102 -0.0882,0.01732 -0.133867,0.01732 -0.03307,0 -0.06457,-0.0031 -0.09607,-0.0079 0.06457,0.201587 0.251984,0.348053 0.47562,0.352778 -0.174814,0.137016 -0.393725,0.217336 -0.631535,0.217336 -0.04252,0 -0.08189,-0.0016 -0.122842,-0.0063 0.22521,0.144891 0.492943,0.228361 0.78115,0.228361 0.935491,0 1.447334,-0.774851 1.447334,-1.447334 0,-0.02205 0,-0.0441 -0.0016,-0.06615 0.09922,-0.07245 0.185839,-0.162214 0.255134,-0.263008 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+             id="path4784" />
+        </g>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -225,18 +217,14 @@
       <g
          id="g4201"
          transform="translate(0,-2.5905258)">
-        <text
-           xml:space="preserve"
+        <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="24.699465"
-           y="44.28479"
-           id="text4163"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4165"
-             x="24.699465"
-             y="44.28479"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"></tspan></text>
+           id="text4163">
+          <path
+             d="m 27.118512,43.276854 c 0,-0.667758 -0.541765,-1.209524 -1.209523,-1.209524 -0.667758,0 -1.209524,0.541766 -1.209524,1.209524 0,0.533891 0.346478,0.987462 0.826823,1.148102 0.06142,0.01102 0.08347,-0.02677 0.08347,-0.05827 0,-0.02835 -0.0016,-0.124417 -0.0016,-0.225211 0,0 -0.337029,0.07245 -0.4079,-0.143316 0,0 -0.05512,-0.140166 -0.133866,-0.176389 0,0 -0.110243,-0.07559 0.0079,-0.07402 0,0 0.119693,0.0094 0.185838,0.124417 0.105519,0.185838 0.281908,0.132292 0.351203,0.100794 0.01103,-0.07874 0.04252,-0.130717 0.07717,-0.162215 -0.269309,-0.02992 -0.551216,-0.133867 -0.551216,-0.596888 0,-0.132291 0.04725,-0.240959 0.124417,-0.324429 -0.0126,-0.0315 -0.05355,-0.15434 0.01103,-0.32128 0.102368,-0.0315 0.333879,0.124417 0.333879,0.124417 0.09607,-0.02677 0.200012,-0.04095 0.302381,-0.04095 0.102368,0 0.206312,0.01417 0.302381,0.04095 0,0 0.23151,-0.155915 0.332304,-0.124417 0.06615,0.16694 0.0252,0.289782 0.0126,0.32128 0.07717,0.08347 0.124417,0.192138 0.124417,0.324429 0,0.464596 -0.283482,0.566965 -0.55279,0.596888 0.0441,0.0378 0.08189,0.110243 0.08189,0.223636 0,0.162215 0,0.292931 0,0.332304 0,0.0315 0.02047,0.0693 0.08189,0.05827 0.480344,-0.16064 0.826822,-0.614211 0.826822,-1.148102 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"
+             id="path4787" />
+        </g>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:Cabin;-inkscape-font-specification:'Cabin, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
