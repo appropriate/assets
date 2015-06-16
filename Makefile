@@ -2,7 +2,21 @@
 
 .PHONY: all
 
-all: appropriate-logo.png appropriate-logo-white.png appropriate-logo-olive.png favicon.ico favicon-144.png favicon-152.png appropriate-logo-50x50.png appropriate-logo-128x128.png appropriate-logo-full-100x40.png appropriate-logo-400x400.png appropriate-logo-full-150x60.png appropriate-logo-full-625x250.png
+all: \
+	appropriate-logo.png \
+	appropriate-logo-white.png \
+	appropriate-logo-olive.png \
+	favicon.ico \
+	favicon-144.png \
+	favicon-152.png \
+	appropriate-logo-50x50.png \
+	appropriate-logo-128x128.png \
+	appropriate-logo-full-100x40.png \
+	appropriate-logo-400x400.png \
+	appropriate-logo-full-150x60.png \
+	appropriate-logo-full-625x250.png \
+	appropriate-logo-bw-128x128.png \
+	appropriate-logo-mono-128x128.png
 
 appropriate-logo.png: appropriate-logo.svg
 	convert -background none $^ -resize 1600x1600 $@
@@ -20,6 +34,12 @@ appropriate-logo-50x50.png: appropriate-logo.svg
 	convert -background none $^ -resize 50x50 $@
 
 appropriate-logo-128x128.png: appropriate-logo.svg
+	convert -background none $^ -resize 128x128 $@
+
+appropriate-logo-bw-128x128.png: appropriate-logo-bw.svg
+	convert -background none $^ -resize 128x128 $@
+
+appropriate-logo-mono-128x128.png: appropriate-logo-mono.svg
 	convert -background none $^ -resize 128x128 $@
 
 appropriate-logo-full-100x40.png: appropriate-logo-full.svg
