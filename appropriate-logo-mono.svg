@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500mm"
+   height="500mm"
+   viewBox="0 0 1771.6535 1771.6535"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="appropriate-logo-mono.svg"
+   inkscape:export-filename="/Users/mike/Documents/appropriate-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4258"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c19d17;stop-opacity:1;"
+         offset="0"
+         id="stop4260" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32116889"
+     inkscape:cx="885.82677"
+     inkscape:cy="885.82677"
+     inkscape:document-units="mm"
+     inkscape:current-layer="logo"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mike Dillon</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2015-04-01</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Appropriate Computing, LLC</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,719.29134)">
+    <g
+       id="logo">
+      <path
+         style="fill:#a0a0a0;fill-opacity:1;stroke:#5a5a5a;stroke-width:28.34645271;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         class="star-shape"
+         d="m 885.82661,-643.99858 103.08468,159.68279 147.38401,-120.0124 48.6948,183.72224 177.2563,-68.59439 -10.4619,189.77771 189.7777,-10.46191 -68.5943,177.25647 183.7224,48.694675 -120.0126,147.384058 159.6829,103.084687 -159.6829,103.08468 120.0126,147.38406 -183.7224,48.69467 68.5943,177.25646 -189.7777,-10.46193 10.4619,189.77771 -177.2563,-68.59438 -48.6948,183.72224 L 988.91129,817.38647 885.82661,977.06924 782.74192,817.38647 635.35787,937.39886 586.66319,753.67662 409.40674,822.271 419.86866,632.49329 230.09096,642.95522 298.68534,465.69876 114.9631,417.00409 234.97549,269.62003 75.292716,166.53535 234.97549,63.450663 114.9631,-83.933395 l 183.72224,-48.694675 -68.59438,-177.25647 189.7777,10.46191 -10.46192,-189.77771 177.25645,68.59439 48.69468,-183.72224 147.38405,120.0124 z"
+         id="sun" />
+      <circle
+         r="581.0545"
+         cy="166.33716"
+         cx="886.00281"
+         id="circle"
+         style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:#3c3c3c;stroke-width:35.43306732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1249.99987793px;line-height:125%;font-family:'Cabin Condensed';-inkscape-font-specification:'Cabin Condensed, Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="capital-letter-a">
+        <path
+           d="m 1072.7017,549.17194 -63.75,-218.74998 -246.25,0 -63.74999,218.74998 -147.49999,0 267.49997,-874.99992 133.74999,0 267.50002,874.99992 -147.5,0 z M 885.20169,-100.828 812.7017,190.42197 l 147.49998,0 -74.99999,-291.24997 z"
+           style="fill:#3c3c3c;fill-opacity:1"
+           id="path4158" />
+      </g>
+    </g>
+  </g>
+</svg>
