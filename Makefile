@@ -53,12 +53,7 @@ appropriate-logo-full-625x250.png: appropriate-logo-full.svg
 
 # Multi-icon .ico h/t: http://stackoverflow.com/a/15104985/1106808
 favicon.ico: appropriate-logo.svg
-	convert $^ -bordercolor white -border 0 \
-		\( -clone 0 -resize 16x16 \) \
-		\( -clone 0 -resize 32x32 \) \
-		\( -clone 0 -resize 48x48 \) \
-		\( -clone 0 -resize 64x64 \) \
-		-delete 0 -alpha off -colors 256 $@
+	convert -density 384 -background none $^ -define icon:auto-resize=64,48,32,16 -colors 256 $@
 
 favicon-144.png: appropriate-logo.svg
 	convert $^ -resize 144x144 $@
